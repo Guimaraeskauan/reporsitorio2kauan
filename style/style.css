@@ -13,7 +13,7 @@ body {
     height: 100vh;
 
     /* Cria um gradiente de cores de cima para baixo como plano de fundo */
-    background: linear-gradient(to bottom, #1d53e9, #020202, #6d6c6c);
+    background: linear-gradient(to bottom, #1d53e9, #01c1fc, #6e6e6e);
 
     /* Define o tamanho de fundo para cobrir toda a área disponível */
     background-size: cover;
@@ -50,7 +50,7 @@ body {
 
 /* Define a cor do texto para elementos com a classe .titulo-destaque como d38b06 (laranja) */
 .titulo-destaque {
-    color: #74f30d;
+    color: #111111;
 }
 
 /* Estilos para elementos com a classe .conteudo */
@@ -554,7 +554,7 @@ body {
 }
 .rodape{
     color: rgb(24, 17, 17);
-    background-color: rgb(3, 205, 255);
+    background-color: rgb(3, 196, 255);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -566,7 +566,7 @@ body {
 }
 
 .rodape a:hover {
-    color: #1043ec;
+    color: #0e36e9;
 }
 
 

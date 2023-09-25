@@ -13,7 +13,7 @@ body {
     height: 100vh;
 
     /* Cria um gradiente de cores de cima para baixo como plano de fundo */
-    background: linear-gradient(to bottom, #033fe4, #1f1e1e, #5e5b5b);
+    background: linear-gradient(to bottom, #0a50e6, #0eaedf, #555657);
 
     /* Define o tamanho de fundo para cobrir toda a área disponível */
     background-size: cover;
@@ -127,8 +127,8 @@ body {
     bottom: 0;
     left: 0;
     width: 100%;
-    color: white;
-    background-color: #0e84a1;
+    color: rgb(24, 23, 23);
+    background-color: #05d9f5;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -141,5 +141,5 @@ body {
 
 /* Estilo de link no rodapé */
 .rodape a:hover {
-    color: #2bf5f5;
+    color: #105dee;
 }
